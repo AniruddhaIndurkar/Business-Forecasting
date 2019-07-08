@@ -1,4 +1,4 @@
-# Business-Forecasting
+# Business-Forecasting: Retail Footwear data
 Forecasting the time series of Retail footwear data using:
 
 1. Decomposition
